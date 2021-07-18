@@ -1,0 +1,6 @@
+Must Run code from Asgmt3 class. Also when inputting file name the file extension must be included example (.txt)
+
+Added AdjacenyMatrixPreaser class
+Edited Asgmt3, FileIO and DijkstrasAlgorithm classes
+
+Code tested and works for all 4 txt files provided
