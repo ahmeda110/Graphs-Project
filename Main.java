@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Asgmt3 {
+class Main {
 
 	static String fileName;	
 
