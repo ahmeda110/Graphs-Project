@@ -11,7 +11,7 @@ For example if a txt file contained:
 0 0 32   36   0 0 <br/>
 0 29   0 0 21 0  
 
-(represents an adjacency matrix structuring the graph shown below)<br/><br/>
+(The above represents an adjacency matrix structuring the graph shown below)<br/><br/>
 ![SharedScreenshot](https://user-images.githubusercontent.com/65793945/126075365-bdd6e3ce-3365-44b4-831a-8c065861d830.jpg)
 <br/><br/>
 
