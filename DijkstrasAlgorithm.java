@@ -10,7 +10,7 @@ import java.io.PrintStream;
 
 public class DijkstrasAlgorithm{ 
 	 
-	Asgmt3 file = new Asgmt3();
+	Main file = new Main();
 	//PrintStream out = new PrintStream(file.fileName.replace(".txt",""));
 	
 	private static final int NO_PARENT = -1; 
